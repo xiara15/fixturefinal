@@ -1,0 +1,25 @@
+Competencia: copa am
+
+Grupo 1:
+Equipo 1: a
+Equipo 2: b
+Equipo 3: c
+Equipo 4: d
+
+Grupo 2:
+Equipo 1: e
+Equipo 2: f
+Equipo 3: g
+Equipo 4: h
+
+Grupo 3:
+Equipo 1: i
+Equipo 2: j
+Equipo 3: k
+Equipo 4: l
+
+Grupo 4:
+Equipo 1: m
+Equipo 2: n
+Equipo 3: ¤
+Equipo 4: o
